@@ -7,9 +7,15 @@ where the competition's scorer reads it.
 
 import os
 
+# Competition limit for the single autocorrect fail.
+MAX_CHARS = 199
+
 LINE = (
-    "Autocorrect just told my boss 'I love you' instead of 'I'll review it' — so if I get fired, tell my cat I died a hero."
+    "Autocorrect just told my boss 'I love you' instead of 'I'll review it' — so if I get fired, tell my cat I died a hero. It also CC'd HR."
 )
+
+# Guard: the entry must stay inside the competition's character limit.
+assert len(LINE) <= MAX_CHARS, f"line is {len(LINE)} chars, over the {MAX_CHARS} limit"
 
 
 def main():
