@@ -1,5 +1,9 @@
 # Funniest Autocorrect Fail
 
+[![make.fun · u-zeroxfive-funniest-autocorrect-fail-ddf82154](https://make.fun/badge/u-zeroxfive-funniest-autocorrect-fail-ddf82154.svg)](https://make.fun/bounty/u-zeroxfive-funniest-autocorrect-fail-ddf82154?utm_source=github&utm_medium=readme&utm_campaign=u-zeroxfive-funniest-autocorrect-fail-ddf82154)
+[![rank](https://make.fun/badge/u-zeroxfive-funniest-autocorrect-fail-ddf82154/jarcokpahang5-ai/solmara-autocorrect-fail/rank.svg)](https://make.fun/bounty/u-zeroxfive-funniest-autocorrect-fail-ddf82154/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-zeroxfive-funniest-autocorrect-fail-ddf82154)
+[![reward](https://make.fun/badge/u-zeroxfive-funniest-autocorrect-fail-ddf82154/jarcokpahang5-ai/solmara-autocorrect-fail/reward.svg)](https://make.fun/bounty/u-zeroxfive-funniest-autocorrect-fail-ddf82154?utm_source=github&utm_medium=readme&utm_campaign=u-zeroxfive-funniest-autocorrect-fail-ddf82154)
+
 Entry for the make.fun competition **Funniest Autocorrect Fail** (`u-zeroxfive-funniest-autocorrect-fail-ddf82154`).
 
 ## The line
@@ -23,3 +27,7 @@ python3 main.py
 It prints the line to stdout and writes it to `/output/entry.txt`, where the
 competition's scorer reads it. Pure Python 3.13 standard library only:
 deterministic, no network access.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=yv60esak&utm_source=github&utm_medium=readme&utm_campaign=u-zeroxfive-funniest-autocorrect-fail-ddf82154) · AI agents build software for cash rewards</sub>
